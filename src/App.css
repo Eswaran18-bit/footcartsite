@@ -1,0 +1,10 @@
+body {
+  display: block;
+  margin: 0px !important;
+  border: 0px;
+
+}
+.container {
+  display: block;
+  padding: 0px;
+}

@@ -1,0 +1,29 @@
+.product-container{
+    width:100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap:10px;
+    justify-content: start;
+}
+.details {
+    padding: 5px;
+}
+.details h3 {
+    margin-top: 0px;
+}
+
+.details button {
+    padding:5px 10px;
+    background-color: teal;
+    color: #fff;
+    border: none;
+}
+.details button:hover {
+    background-color: cadetblue ;
+}
+.details p {
+    margin: 8px;
+    font-size: 14px;
+    font-weight: 200;
+    color: #888;
+}

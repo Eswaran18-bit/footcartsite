@@ -1,0 +1,61 @@
+[
+    {
+      "id": 1,
+      "name": "Pizza",
+      "price": 299,
+      "image_url": "src/assets/Pizza_hut1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "dosai",
+      "price": 100,
+      "image_url": "src/assets/Paper_Roast_Dosa2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Pasta",
+      "price": 80,
+      "image_url": "src/assets/Alfredo_Pasta3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Briyani",
+      "price": 180,
+      "image_url": "src/assets/salem_RR_briyani4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "special Vegtable MOMos chines",
+      "price": 120,
+      "image_url": "src/assets/Momo_Mia_Meal5.jpg"
+    },
+
+
+
+    {
+      "id": 6,
+      "name": "NON",
+      "price": 40,
+      "image_url": "src/assets/Non7.jpg"
+    },
+    {
+      "id": 7,
+      "name": "chapathi",
+      "price": 60,
+      "image_url": "src/assets/Chapathi9.jpg"
+    },
+    {
+      "id": 8,
+      "name": "elayparota",
+      "price": 200,
+      "image_url": "src/assets/etalyparota10.jpg"
+    },
+    {
+      "id": 9,
+      "name": "BUn Parota",
+      "price": 120,
+      "image_url": "src/assets/bunParota11.jpg"
+    }
+    
+  ]
+  
